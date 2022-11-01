@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use anchor_lang::solana_program::entrypoint::ProgramResult;
 
-declare_id!("A3TZnN9WmNvMXSfQmuC3SDGYBb8eYMafXgmyeScYBrJJ");
+declare_id!("CX2wKrnUCwmu3AALGr3BMN4PHoQ764bcgrzUR3qPHrAi");
 
 #[program]
 pub mod crowdfunding {
